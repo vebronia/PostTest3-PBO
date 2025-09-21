@@ -1,6 +1,6 @@
 ## PostTest3-PBO
 
-##**DESKRIPSI PROGRAM**
+#**DESKRIPSI PROGRAM**
 
 Program ini merupakan sistem sederhana berbasis Java untuk mengelola data perlengkapan olahraga dengan konsep OOP (Object Oriented Programming).
 Fitur utama:
