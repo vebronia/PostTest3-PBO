@@ -56,6 +56,7 @@ Pengguna dapat:
 Ketika dijalankan, program akan menghasilkan:
 
 <img width="596" height="312" alt="Screenshot 2025-09-21 181012" src="https://github.com/user-attachments/assets/644516ce-b3f7-4edf-8a29-64bba6bb24d6" />
+
 Objek bola dibuat dari class AlatOlahraga.
 - Karena AlatOlahraga adalah subclass dari Properti, maka atribut nama, harga, dan stok diwarisi dari superclass.
 - Ditambah atribut baru jenisOlahraga → yang diisi "Basket".
